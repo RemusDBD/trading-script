@@ -2,9 +2,10 @@
 my personal trading script #RemusDBD
 <hr>
 <h3>Performance</h3>
-Script for translating Tickers into weekly perfomance <Br>
+Script for translating Tickers into weekly/monthly perfomance <Br>
 
 - [turn-weekly-yfinance](https://github.com/RemusDBD/trading-script/blob/main/performance/turn-weekly-yfinance.py)
+- [turn-monthly-yfinance](https://github.com/RemusDBD/trading-script/blob/main/performance/turn-monthly-yfinance.py)
 
 <hr>
 <h3>Formating</h3>
