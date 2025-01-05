@@ -12,3 +12,10 @@ Script for translating Tickers into weekly/monthly perfomance <Br>
 Script for sorting Ticker's performance from highest to lowest <br>
 
 - [ticker-performance-sorting](https://github.com/RemusDBD/trading-script/blob/main/formating/ticker-performance-sorting.py)
+  
+<hr>
+<h3>Calculator</h3>
+Script/Portable Executable for calculating performance <br>
+
+- [absolute_return_cli](https://github.com/RemusDBD/trading-script/tree/main/calculator/absolute_return/cli)
+- [absolute_return_gui](https://github.com/RemusDBD/trading-script/tree/main/calculator/absolute_return/gui_v2)
