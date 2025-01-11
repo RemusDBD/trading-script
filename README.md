@@ -5,6 +5,7 @@ my personal trading script #RemusDBD
 Script for translating Tickers into weekly/monthly perfomance <Br>
 
 - [turn-weekly-yfinance](https://github.com/RemusDBD/trading-script/blob/main/performance/turn-weekly-yfinance.py)
+- [turn-selected-weekly-yfinance](https://github.com/RemusDBD/trading-script/blob/main/performance/turn-selected-weekly-yfinance.py)
 - [turn-monthly-yfinance](https://github.com/RemusDBD/trading-script/blob/main/performance/turn-monthly-yfinance.py)
 
 <hr>
