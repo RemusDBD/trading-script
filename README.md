@@ -1,5 +1,6 @@
 # trading-script
 my personal trading script #RemusDBD
+The following scripts allow me to review > 100 stocks every week & month.
 <hr>
 <h3>Performance</h3>
 Script for translating Tickers into weekly/monthly perfomance <Br>
